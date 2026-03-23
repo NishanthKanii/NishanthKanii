@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Full-Stack Developer with 3.9 years of experience specializing in Angular and Node.js. My expertise lies in crafting high-performance, responsive UIs and building scalable RESTful APIs with MongoDB. From developing pixel-perfect designs at Sensiple to streamlining CI/CD pipelines at SightSpectrum, I am passionate about delivering user-focused digital solutions and driving technical innovation.<br>
+I am a Full-Stack Developer with 3.9 years of experience specializing in Angular and Node.js. My expertise lies in crafting high-performance, responsive UIs and building scalable RESTful APIs with MongoDB. I am passionate about delivering user-focused digital solutions and driving technical innovation.<br>
 
 
 # 💻 Tech Stack:
